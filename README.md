@@ -1,5 +1,5 @@
 # 👋 Olá, sou o Arthur Zanella Koerich!
-### Software Developer | Backend (Java & Spring)
+### Backend Developer | Java
 
 <p>
   <a href="https://www.linkedin.com/in/arthurzanellakoerich/">
@@ -14,30 +14,37 @@
 
 ### 🚀 Sobre mim
 
-Estudante de desenvolvimento de software apaixonado por backend e pela arte de construir sistemas que funcionam de verdade.
+Estudante de **Ciência da Computação** e participante do **Entra21**, com grande interesse em desenvolvimento backend e arquitetura de software.
 
-Atualmente cursando faculdade e participando do **Entra21**, programa de formação profissional referência no Sul do Brasil — o que tem acelerado bastante minha evolução técnica e profissional.
-
-Movido por curiosidade e ambição — não me contento em só fazer funcionar, quero entender o porquê e fazer cada vez melhor.
+Movido pela curiosidade e pelo aprendizado contínuo, busco compreender os fundamentos por trás das tecnologias que utilizo e evoluir constantemente na construção de sistemas eficientes, escaláveis e bem estruturados.
 
 ---
 
-### ⚡ Minhas tecnologias
+### ⚡ Tecnologias
 
 #### 🖥️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### 🛠️ Ferramentas & Tecnologias
+---
+
+### 🛠️ Metodologias & Ferramentas
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+### 📂 Projetos Pessoais
+
+**[skin-notifier](https://github.com/arthurzanellakoerich/skin-notifier)** — Bot que monitora skins do CS2 na DashSkins e envia alertas via WhatsApp quando encontra itens dentro da faixa de preço configurada.
+
+`Java` `Maven` `OkHttp` `Gson` `REST API` `CallMeBot`
 
 ---
 
