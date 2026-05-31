@@ -42,7 +42,7 @@ Movido pela curiosidade e pelo aprendizado contínuo, busco compreender os funda
 
 ### 📂 Projetos Pessoais
 
-**[skin-notifier](https://github.com/arthurzanellakoerich/skin-notifier)** — Bot que monitora skins do CS2 na DashSkins e envia alertas via WhatsApp quando encontra itens dentro da faixa de preço configurada.
+**[skin-hunter](https://github.com/arthurzanellakoerich/skin-notifier)** — Bot que monitora skins do CS2 na DashSkins e envia alertas via WhatsApp quando encontra itens dentro da faixa de preço configurada.
 
 `Java` `Maven` `OkHttp` `Gson` `REST API` `CallMeBot`
 
