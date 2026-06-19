@@ -24,6 +24,7 @@ Movido pela curiosidade e pelo aprendizado contínuo, busco compreender os funda
 
 #### 🖥️ Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 #### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,9 +43,9 @@ Movido pela curiosidade e pelo aprendizado contínuo, busco compreender os funda
 
 ### 📂 Projetos Pessoais
 
-**[skin-hunter](https://github.com/arthurzanellakoerich/skin-notifier)** — Bot que monitora skins do CS2 na DashSkins e envia alertas via WhatsApp quando encontra itens dentro da faixa de preço configurada.
+**[spring-order-api](https://github.com/arthurzanellakoerich/spring-order-api)** — API RESTful de um sistema de pedidos desenvolvida com Spring Boot 3 e JPA/Hibernate, cobrindo modelagem de domínio com relacionamentos complexos, CRUD completo e tratamento global de exceções.
 
-`Java` `Maven` `OkHttp` `Gson` `REST API` `CallMeBot`
+`Java` `Spring Boot` `JPA` `Hibernate` `H2` `PostgreSQL` `Maven` `REST API`
 
 ---
 
