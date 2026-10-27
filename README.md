@@ -43,9 +43,9 @@ Movido pela curiosidade e pelo aprendizado contínuo, busco compreender os funda
 
 ### 📂 Projetos Pessoais
 
-**[spring-order-api](https://github.com/arthurzanellakoerich/spring-order-api)** — API RESTful de um sistema de pedidos desenvolvida com Spring Boot 3 e JPA/Hibernate, cobrindo modelagem de domínio com relacionamentos complexos, CRUD completo e tratamento global de exceções.
+**[api-servidor](https://github.com/arthurzanellakoerich/api-servidor)** — API REST de gerenciamento de usuários, produtos e pedidos com controle de estoque, desenvolvida com Spring Boot e PostgreSQL. Aplica arquitetura em camadas, DTOs, validação com Bean Validation, regras de negócio no domínio, tratamento global de exceções e documentação com Swagger UI.
 
-`Java` `Spring Boot` `JPA` `Hibernate` `H2` `PostgreSQL` `Maven` `REST API`
+`Java 21` `Spring Boot` `JPA` `Hibernate` `PostgreSQL` `Maven` `REST API` `Swagger`
 
 ---
 
